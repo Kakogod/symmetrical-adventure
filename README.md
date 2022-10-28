@@ -1,1 +1,3 @@
 # symmetrical-adventure
+
+.
